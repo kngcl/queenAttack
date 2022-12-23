@@ -1,0 +1,51 @@
+body{
+  background-color: #a79f9f;
+}
+
+.check {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 4;
+}
+
+em {
+  font-size: 50px;
+}
+
+
+.row1,
+.row2,
+.row3,
+.row4,
+.row5,
+.row6,
+.row7,
+.row8 {
+  display: flex;
+}
+
+button {
+  padding: 2vw;
+  border: 1px solid #000;
+
+}
+
+.gn {
+  background-color: #9b4343;
+  cursor: pointer;
+}
+
+.gn:hover {
+  background-color: greenyellow;
+}
+
+.wt {
+  background-color: #000;
+  cursor: pointer;
+}
+
+.wt:hover {
+  background-color: #fff;
+}
