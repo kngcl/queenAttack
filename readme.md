@@ -1,6 +1,6 @@
 # Queen Attack
 
-The projects is all about Implementing the classic method for composing secret messages called a square code.
+The project is all about indicating whether or not they are positioned so that they can attack each other.
 
 ## App
 
@@ -24,14 +24,14 @@ Knowledge about:
 ## Clone project
 
 - To get a local copy up and running follow these simple example steps.
-- Clone this repository with `git@github.com:kngcl/secretmessage.git` using your terminal.
+- Clone this repository with `git@github.com:kngcl/queenAttack.git` using your terminal.
 - Change to the project directory by entering: cd parallax in the terminal.
 
 ## steps
 
-- $ git clone `git@github.com:kngcl/secretmessage.git`
-- $ `cd secretmessage`
-- $ `git checkout feature/secretmessage`
+- $ git clone `git@github.com:kngcl/queenAttack.git`
+- $ `cd queenAttack`
+- $ `git checkout feature/queenAttack`
 
 ## Start App
 
@@ -41,13 +41,13 @@ Knowledge about:
 
 👤 **kngcl**
 
-- GitHub: [@kngcl](https://github.com/kngcl/secretmessage)
+- GitHub: [@kngcl](https://github.com/kngcl/queenAttack)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kngcl/secretmessage/issues).
+Feel free to check the [issues page](https://github.com/kngcl/queenAttack/issues).
 
 ## 📝 License
 
