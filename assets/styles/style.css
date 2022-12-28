@@ -75,6 +75,7 @@ button {
 .refresh {
   font-weight: bolder;
 }
+
 .refresh:hover {
   background-color: #000;
   cursor: pointer;
